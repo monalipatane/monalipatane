@@ -114,7 +114,7 @@ I’m **Monali Patane**, a passionate Full Stack Developer, Mentor, and Technica
 
   
   <!-- Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aspatil0&theme=dark&hide_border=false" alt="aspatil0's GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=monalipatane&theme=dark&hide_border=false" alt="monalipatane's GitHub Streak" />
 </div>
 
 <br>
